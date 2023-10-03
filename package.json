@@ -1,0 +1,29 @@
+{
+  "name": "backend-socket",
+  "version": "1.0.0",
+  "description": "socket do nosso jogo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esconde-Esconde/backend-socket.git"
+  },
+  "keywords": [
+    "socket",
+    "hide",
+    "and",
+    "seek"
+  ],
+  "author": "Esconde Esconde Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esconde-Esconde/backend-socket/issues"
+  },
+  "homepage": "https://github.com/Esconde-Esconde/backend-socket#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
